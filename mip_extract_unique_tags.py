@@ -1,9 +1,7 @@
-```
-Author: Rebecca Barnard 
-
-```
 
 #!/usr/bin/env python
+
+__author__      = "Rebecca Barnard"
 
 
 import argparse, gzip, string, sys
